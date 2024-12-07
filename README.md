@@ -1,2 +1,1 @@
-# Predictive-Maintenance
-#Predictive_Maintenance_for_TurboEngine_RUL using NASA CMAPS DATASET
+# Regression_technique_for_TurboEngine_RUL
